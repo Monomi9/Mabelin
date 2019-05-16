@@ -1,0 +1,152 @@
+<html>
+<title>
+	About Me
+</title>
+<head>
+	<title>Font Family</title>
+	<style type="text/css">
+		p {
+			margin: 5px;
+			padding: 5px;
+			background-color: #efefef;
+		}
+		h2., h3, h4, h5 {
+			width: 750px;
+			font-family: Impact, verdana, serif;
+			font-size: 50px;
+			color: white;
+		}
+		figcaption {
+			font-family: Courier, corier new, fantasy;
+			font-size: 20px
+		}
+		h1{
+			font-size: 30px;
+			font-family: American Typewriter, serif;;
+			color: white;
+				position: fixed;
+				top: 0px;
+				left: 0px;
+				padding: 10px;
+				margin: 0px;
+				width: 100%;
+				background-color: black;
+			}
+		body {
+			font-family: Arial,verdana,sans-serif;
+			color: #665544;
+			background-color: rgb(185,179,175);
+			width: 960px;
+			margin: 0 auto; }
+			#content {
+				height: 100%;
+			}
+			#nav, #feature, #footer {
+				background-color: #efefef;
+				padding: 10px;
+				margin: 10px;
+			}
+			}
+			li {display: inline;
+				padding: 5px;
+			}
+		
+			p.example {
+				margin-top: 100px;
+			}
+			img.align-center{
+				display: block;
+				margin: 0px auto;
+				}
+				img.mediumm {
+					width: 250px;
+					height: 250px;
+				}
+				blockquote {
+					float: right;
+					width: 275;
+					font-size: 120%;
+					font-family: Georgia, Times, Serif;
+					margin: 0px 0px 10px 10px;
+					padding: 10px;
+					border-top: 1px solid #665544;
+					border-bottom: 1px solid #665544;
+				}
+	</style>
+</head>
+<body> 
+	<!-- start of introduction -->
+	<div id="header">
+	<div class="container_12">
+	<div class="grid_5">
+	<h1> For The Final Project I Will Do An "About Me" Website That Will Supplement A Work Portfolio Of Visual Arts.</h1>
+	</div>
+	 <!-- end of introduction -->
+	 <!-- start of main text -->
+		<ul>
+		<li>
+			<figcaption>
+	 		<p class="example">This is a midterm proposal for my final project I will demonstrate visual arts created by me, that represents different aspects of life and everyday things that many people suffer from in my artistic perspective. That I hope everyone that sees it can understand this artistic representation that I created.</p>
+	 	</figcaption>
+	 </li></ul>
+	 <hr>
+	 <div class="wrapper">
+	 	<div class="main-story container_12">
+	 		<div class="grid_6 push_6">
+	<h2>Appearance and Vulnerability</a></h2>
+</div>
+<div class="intro grid_3 push_9">
+	<figure>
+		<figcaption>
+			<blockquote>“Character is like a tree and reputation its shadow. The shadow is what we think it is and the tree is the real thing.” 
+― Abraham Lincoln
+</blockquote>
+		<p class="example"><img src="D:\Descargas/rsz_tiger_2.jpg" alt="Appearance" alt="rsz_tiger_2"
+		width="500" height="400" class= "logo"  />
+			<b><li>Appearance</li></b>
+		 This is an art piece I created to show the fierce of people they have within. Just like the beast of the jungle which is as well shown vulnerable. That shows appearance is just an outiside feature doesn't describe the person itself. We will never know until we interact with it.
+		  </p>
+		</figcaption>
+	</figure>
+	<hr>
+	<h3> Depression</h3>
+	<figure>
+		<figcaption>
+			<blockquote> "No one wishes to have dark days, sleepless nights, grumpy mornings and this endless dark tunnel with no sign that it ever ends. Depression is not a choice." - Unknown
+			</blockquote>
+			<p class="example"><img src="D:\Descargas/rsz_1depression.jpg" alt="Depression"
+		width="400" height="400" class= "logo"  />
+			<b><li>Depression
+			</li></b>		
+		This piece represents how someone can be consume by depression and forget who they are or used to be break themselves and disappear as time goes by. Which in my experience it feels like being eaten and getting destroyed slowly. That is what the art work is supposed to represent.
+
+	</p>
+	</figcaption>
+	</figure>
+	<hr />
+	<h4> Maniac</h4>
+	<figure>
+		<figcaption>
+		<blockquote>“Was I ever crazy? Maybe. Or maybe life is… Crazy isn’t being broken or swallowing a dark secret. It’s you or me amplified. If you ever told a lie and enjoyed it. If you ever wished you could be a child forever. They were not perfect, but they were my friends.” 
+― Susanna Kaysen, Girl, Interrupted
+</blockquote>
+		<p class="example"><img src="D:\Descargas/rsz_doll.jpg" alt="doll" width="400" height="500" class= "logo"  />
+			<b><li>Doll</li></b>
+	This piece represents the the process of a person going insane, the woman in the picture holds a doll. She blames the doll of the homicide she committed. For that they use the doll as a treatment and her represantiton of madness.
+</p></figcaption>
+	<hr />
+	</figure>
+	<h5>Anxiety</h5>
+	<figure>
+
+		<figcaption><blockquote>
+		 	“Over the past few years I’ve experienced horrible bouts of anxiety. When that moment hits, my whole body tenses up and my mind spirals, thinking the worst – that I’m not safe and can’t get home. I start crying, my breathing is all over the place and, in extreme cases, I throw up.” – Louise Pentland.
+		 </blockquote>
+		<p class="example"><img src="D:\Descargas/rsz_anxiety.jpg" alt="Anxiety" width="500" height="400" class= "logo"  />
+			<b><li>Anxiety</li></b>
+		 This piece represents the feeling when someone gets an anxiety attack in my own experience, how every demon makes you feel lower during the situation they are in. In Many cases is uncontrotable, thinking the worse, being unable to breath. Anxiety can appears different ways and this is the way it is for me. </p></figcaption>
+		 	 <!-- end of main text -->
+	</figure>
+</div>
+</body>
+</html>
